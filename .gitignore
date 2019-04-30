@@ -1,0 +1,26 @@
+.DS_Store
+.vscode/
+
+node_modules/
+build/
+temp/
+dist/
+userfiles/
+
+.env
+
+dump.rdb
+*.log
+npm-debug.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+images/
+
+.ormconfig.json
+
+pgdata
+*.sh
+
+// security keys
+serviceAccountKey.json
